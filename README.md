@@ -1,6 +1,6 @@
 # Introduction
 
-This project represents the work in our paper submmitted to IEEE International Conference on Communications 2021 **"An AI-based Traffic Matrix Prediction Solution for Software-Defined Network"** - Authors: **Duc-Huy LE, Hai Anh TRAN, Sami SOUIHI, Abdelhamid MELLOUK**
+This project represents the work in our paper submmitted to IEEE International Conference on Communications 2021 **"An AI-based Traffic Matrix Prediction Solution for Software-Defined Network"** - DOI: [10.1109/ICC42927.2021.9500331](https://doi.org/10.1109/ICC42927.2021.9500331) -Authors: **Duc-Huy LE, Hai Anh TRAN, Sami SOUIHI, Abdelhamid MELLOUK**
 
 In this project, we provide:
 - SDN application source codes
